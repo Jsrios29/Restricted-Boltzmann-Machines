@@ -7,3 +7,4 @@ This README gives a description of the files in this project.
 2. Source File(s)
 3. Data Files(s)
 4. References
+  NeurIPS 2020 Challenge.pdf - this PDF contains the origin of the data set and details the challenged that was posed by NeurIPS in 2020.
