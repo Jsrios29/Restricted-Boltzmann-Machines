@@ -15,3 +15,4 @@ This README gives a description of the files in this project.
 4. References<br />
   4a NeurIPS 2020 Challenge.pdf - this PDF contains the origin of the data set and details the challenged that was posed by NeurIPS in 2020.<br />
   4b. Intro_to_RBM_Fischer_Ingel - this PDF contains a nice intro to RBMs<br />
+  4c. rbmcf.pdf - A paper describing the application of RBMs to sparse data such as the netflix user-movie ratings. This project adapts this implementation to the         student-question dataset
